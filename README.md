@@ -1,5 +1,5 @@
 # Degradation-Learning Spatial-Sparsity Transformation Unfolding Network for Reflective Spectral Compressive Imaging  
-# AUTHORS  
+## AUTHORS  
 ## JI XU, PING XU, WENJIE ZHU  
 ## 1. Create Environment  
 * python == 3.7.15  
